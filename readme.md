@@ -1,2 +1,1 @@
-this is a system of shopping
-hello
+this is a system of shopping!
